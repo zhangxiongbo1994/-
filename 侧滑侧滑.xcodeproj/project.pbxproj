@@ -1,0 +1,44 @@
+		43B5B5501CAB709C0012EA9A /* RECommonFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B5B54B1CAB709C0012EA9A /* RECommonFunctions.m */; };
+		43B5B5511CAB709C0012EA9A /* RESideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B5B54D1CAB709C0012EA9A /* RESideMenu.m */; };
+		43B5B5521CAB709C0012EA9A /* UIViewController+RESideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B5B54F1CAB709C0012EA9A /* UIViewController+RESideMenu.m */; };
+		43B5B5551CAB70DC0012EA9A /* ZQMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B5B5541CAB70DC0012EA9A /* ZQMainViewController.m */; };
+		43B5B5581CAB70EB0012EA9A /* ZQLeftViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43B5B5571CAB70EB0012EA9A /* ZQLeftViewController.m */; };
+		43B5B54A1CAB709C0012EA9A /* RECommonFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RECommonFunctions.h; sourceTree = "<group>"; };
+		43B5B54B1CAB709C0012EA9A /* RECommonFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RECommonFunctions.m; sourceTree = "<group>"; };
+		43B5B54C1CAB709C0012EA9A /* RESideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RESideMenu.h; sourceTree = "<group>"; };
+		43B5B54D1CAB709C0012EA9A /* RESideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RESideMenu.m; sourceTree = "<group>"; };
+		43B5B54E1CAB709C0012EA9A /* UIViewController+RESideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+RESideMenu.h"; sourceTree = "<group>"; };
+		43B5B54F1CAB709C0012EA9A /* UIViewController+RESideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+RESideMenu.m"; sourceTree = "<group>"; };
+		43B5B5531CAB70DC0012EA9A /* ZQMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZQMainViewController.h; sourceTree = "<group>"; };
+		43B5B5541CAB70DC0012EA9A /* ZQMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZQMainViewController.m; sourceTree = "<group>"; };
+		43B5B5561CAB70EB0012EA9A /* ZQLeftViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZQLeftViewController.h; sourceTree = "<group>"; };
+		43B5B5571CAB70EB0012EA9A /* ZQLeftViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZQLeftViewController.m; sourceTree = "<group>"; };
+				43B5B5531CAB70DC0012EA9A /* ZQMainViewController.h */,
+				43B5B5541CAB70DC0012EA9A /* ZQMainViewController.m */,
+				43B5B5561CAB70EB0012EA9A /* ZQLeftViewController.h */,
+				43B5B5571CAB70EB0012EA9A /* ZQLeftViewController.m */,
+				43B5B5491CAB709C0012EA9A /* RESideMenu */,
+		43B5B5491CAB709C0012EA9A /* RESideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				43B5B54A1CAB709C0012EA9A /* RECommonFunctions.h */,
+				43B5B54B1CAB709C0012EA9A /* RECommonFunctions.m */,
+				43B5B54C1CAB709C0012EA9A /* RESideMenu.h */,
+				43B5B54D1CAB709C0012EA9A /* RESideMenu.m */,
+				43B5B54E1CAB709C0012EA9A /* UIViewController+RESideMenu.h */,
+				43B5B54F1CAB709C0012EA9A /* UIViewController+RESideMenu.m */,
+			);
+			path = RESideMenu;
+			sourceTree = "<group>";
+		};
+						DevelopmentTeam = 672XP4Y99P;
+				43B5B5551CAB70DC0012EA9A /* ZQMainViewController.m in Sources */,
+				43B5B5511CAB709C0012EA9A /* RESideMenu.m in Sources */,
+				43B5B5581CAB70EB0012EA9A /* ZQLeftViewController.m in Sources */,
+				43B5B5501CAB709C0012EA9A /* RECommonFunctions.m in Sources */,
+				43B5B5521CAB709C0012EA9A /* UIViewController+RESideMenu.m in Sources */,
+				DEVELOPMENT_TEAM = 672XP4Y99P;
+				DEVELOPMENT_TEAM = 672XP4Y99P;
+			defaultConfigurationName = Release;
+			defaultConfigurationName = Release;
+			defaultConfigurationName = Release;
